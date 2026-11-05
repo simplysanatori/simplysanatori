@@ -14,8 +14,8 @@ Android developer porting things to Valve's Steam Frame: VR games, streaming cli
 
 ## How I work
 
-These ports are AI-assisted. I pick the targets, direct the work, test on the headset and own the results. Each repo says so in its README.
+These ports are AI-assisted. I start each project and do a fair amount of the coding, review and fixing by hand, all the way through. AI speeds up development, but its work is checked and reined in, with the focus on keeping every port as lightweight as possible.
 
 ## Support
 
-If you'd like more Steam Frame ports, you can [buy me a coffee](https://ko-fi.com/sana748653). It pays for the Claude API credits these ports are built with. Where a port has an upstream with its own donation link, support them first.
+If you'd like more Steam Frame ports, you can [buy me a coffee](https://ko-fi.com/sana748653). Where a port has an upstream with its own donation link, support them first.
