@@ -10,7 +10,8 @@ Android developer porting things to Valve's Steam Frame: VR games, streaming cli
 - [LegendFrame](https://github.com/simplysanatori/LegendFrame): Tomb Raider: Legend in VR on the Frame.
 - [KartFrame](https://github.com/simplysanatori/KartFrame): Mario Kart Wii VR on the Frame at 90 Hz.
 - [AwakeningFrame](https://github.com/simplysanatori/AwakeningFrame): The Legend of Zelda: Link's Awakening as a VR tabletop diorama, native on the Frame. Pre-release.
-- [Azahar for Frame](https://github.com/simplysanatori/AzaharFrame): the Azahar 3DS emulator with CitraVR's immersive VR modes, native on the Frame.
+- [Azahar VR](https://github.com/simplysanatori/AzaharVR): the Azahar emulator (3DS, NDS and GBA) with CitraVR's immersive VR modes, native on the Frame.
+- [Baiji VR](https://github.com/simplysanatori/BaijiVR): my fork of [Baiji](https://github.com/thejerf/baijiSteamVR), a Dolphin VR emulator (GameCube and Wii), native on the Frame. Beta.
 - [Moonlight XR for Frame](https://github.com/simplysanatori/moonlight-xr-steam-frame): stream games and your desktop from your PC to a virtual screen.
 - [FramePassthrough](https://github.com/simplysanatori/FramePassthrough): passthrough shortcuts on the thumbsticks.
 
